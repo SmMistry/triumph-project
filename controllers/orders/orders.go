@@ -2,8 +2,8 @@ package orders
 
 import (
 	"net/http"
-	"triumph/services/order"
 
+	"github.com/SmMistry/triumph-project/services/order"
 	"github.com/gofiber/fiber/v2"
 )
 

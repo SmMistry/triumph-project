@@ -1,4 +1,4 @@
-module triumph
+module github.com/SmMistry/triumph-project
 
 go 1.23.2
 

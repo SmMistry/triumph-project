@@ -2,9 +2,10 @@ package main
 
 import (
 	"log"
-	"triumph/services/exchange"
-	"triumph/services/order"
-	"triumph/controllers/orders"
+	
+	"github.com/SmMistry/triumph-project/services/exchange"
+	"github.com/SmMistry/triumph-project/services/order"
+	"github.com/SmMistry/triumph-project/controllers/orders"
 
 	"github.com/gofiber/fiber/v2"
 )
