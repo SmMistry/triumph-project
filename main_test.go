@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"testing"
-	"triumph/services/order"
-	"triumph/controllers/orders"
+	"github.com/SmMistry/triumph-project/services/order"
+	"github.com/SmMistry/triumph-project/controllers/orders"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/stretchr/testify/assert"
